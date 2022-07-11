@@ -6,7 +6,13 @@
             <checksum>https://raw.githubusercontent.com/tvsoott/repository.ottv/master/repo/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/tvsoott/repository.ottv/master/repo/zips/</datadir>
         </dir>
+        <dir minversion="19.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/tvsoott/repository.ottv/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/tvsoott/repository.ottv/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/tvsoott/repository.ottv/master/matrix/zips/</datadir>
+        </dir>
     </extension>
+
     <extension point="xbmc.addon.metadata">
         <summary>OTTV Repository</summary>
         <description></description>
