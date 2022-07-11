@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ottv" name="OTTV Repository" version="1.0" provider-name="tvsoott">
+    <extension point="xbmc.addon.repository" name="OTTV Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/tvsoott/repository.ottv/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/tvsoott/repository.ottv/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/tvsoott/repository.ottv/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>OTTV Repository</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
