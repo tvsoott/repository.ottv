@@ -1,6 +1,6 @@
 name="Customer Name"
 version="1.0"
-url="https://www.dropbox.com/s/y8ow74z000pi0z1/Kodi.zip?dl=1"
+url="https://www.dropbox.com/s/k7vk2qmx5fbjj79/Kodi.zip?dl=1"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="19.5"
