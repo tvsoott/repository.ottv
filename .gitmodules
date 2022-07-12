@@ -1,3 +1,4 @@
 [submodule "matrix/plugin.program.ottvwizard"]
 	path = matrix/plugin.program.ottvwizard
 	url = https://github.com/tvsoott/plugin.program.ottvwizard
+	branch = matrix
